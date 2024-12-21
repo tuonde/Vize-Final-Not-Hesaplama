@@ -1,0 +1,20 @@
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\VizeFinal_Hesaplama\bin\Debug\VizeFinal_Hesaplama.exe.config
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\VizeFinal_Hesaplama\bin\Debug\VizeFinal_Hesaplama.exe
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\VizeFinal_Hesaplama\bin\Debug\VizeFinal_Hesaplama.pdb
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.Form1.resources
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.Properties.Resources.resources
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.exe
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.pdb
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Vize - Final Not Hesaplama\VizeFinal_Hesaplama\bin\Debug\VizeFinal_Hesaplama.exe.config
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Vize - Final Not Hesaplama\VizeFinal_Hesaplama\bin\Debug\VizeFinal_Hesaplama.exe
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Vize - Final Not Hesaplama\VizeFinal_Hesaplama\bin\Debug\VizeFinal_Hesaplama.pdb
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Vize - Final Not Hesaplama\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Vize - Final Not Hesaplama\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.Form1.resources
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Vize - Final Not Hesaplama\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.Properties.Resources.resources
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Vize - Final Not Hesaplama\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Vize - Final Not Hesaplama\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Vize - Final Not Hesaplama\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.exe
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\Vize - Final Not Hesaplama\VizeFinal_Hesaplama\obj\Debug\VizeFinal_Hesaplama.pdb
